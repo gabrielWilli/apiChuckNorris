@@ -2,20 +2,20 @@
 
 ![](https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png)
 
-#### Venha se divertir! Que tal dar uma olhada em algumas curiosidades da nossa lenda, nosso mito, o titio Chuck Norris ?!
+#### Venha se divertir! Que tal dar uma olhada em algumas curiosidades da nossa lenda, nosso mito, o titio Chuck Norris?!
 
 > "Quando Bell inventou o telefone já tinha 3 chamadas não atendidas do Chuck Norris."
 
 ## 💻 Projeto
-O chuckNorrisAPI é um pequeno projeto voltado para o estudo sobre o consumo de API REST utilizando a biblioteca ReactJS juntamente com pré-processador SASS.
+O chuckNorrisAPI é um pequeno projeto voltado para o estudo sobre o consumo de API REST utilizando a biblioteca ReactJS.
 
 ## 🚀 Tecnologias
 - [ReactJS](https://pt-br.reactjs.org/ "ReactJS") (Hooks, ES6)
-- [SASS](https://sass-lang.com/ "SASS")
+- [SASS](https://sass-lang.com/ "SASS") (SASS modules)
 - [Axios](https://www.npmjs.com/package/axios "Axios")
 
 ## ✔️ Requisitos
-Para continuar, assegure-se que voce tenha instalado em sua maquina:
+Para continuar, assegure-se que você tenha instalado em sua maquina:
 - [NodeJS](https://nodejs.org/en/ "NodeJS")
 - [NPM](https://www.npmjs.com/ "NPM")
 
