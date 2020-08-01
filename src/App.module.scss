@@ -1,0 +1,108 @@
+@media (min-width: 0px) {
+  .section {
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+    flex-direction : column;
+
+    .imageChuck {
+      width : 80%;
+      margin: 20px auto;
+    }
+
+    .boxFrase {
+      width        : 70%;
+      border       : 2px solid tan;
+      border-radius: 10px;
+      padding      : 10px;
+      margin       : 20px auto;
+      text-align   : center;
+      height       : auto;
+    }
+
+    .button {
+      padding         : 15px;
+      border          : none;
+      background-color: tan;
+      border-radius   : 10px;
+      margin: 15px auto;
+
+      &:hover {
+        background-color: rgb(177, 144, 102);
+      }
+    }
+  }
+}
+
+
+@media (min-width:600px) {
+  .section {
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+    flex-direction : column;
+
+    .image-chuck {
+      width : 50%;
+      margin: 20px auto;
+    }
+
+    .box-frase {
+      width        : 80%;
+      border       : 2px solid tan;
+      border-radius: 10px;
+      padding      : 10px;
+      margin       : 20px auto;
+      text-align   : center;
+      height       : auto;
+    }
+
+    .button {
+      padding         : 15px;
+      border          : none;
+      background-color: tan;
+      border-radius   : 10px;
+      margin: 10px auto;
+
+      &:hover {
+        background-color: rgb(177, 144, 102);
+      }
+    }
+  }
+}
+
+@media (min-width: 750px) {
+  .section {
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+    flex-direction : column;
+
+    .imageChuck {
+      width : 40%;
+      margin: 20px auto;
+    }
+
+    .boxFrase {
+      width        : 80%;
+      border       : 2px solid tan;
+      border-radius: 10px;
+      padding      : 10px;
+      margin       : 20px auto;
+      text-align   : center;
+      height       : auto;
+    }
+
+    .button {
+      padding         : 15px;
+      border          : none;
+      background-color: tan;
+      border-radius   : 10px;
+      margin: 20px auto;
+
+      &:hover {
+        background-color: rgb(177, 144, 102);
+      }
+    }
+  }
+}
