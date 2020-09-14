@@ -2,7 +2,7 @@
 
 ![](https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png)
 
-#### Venha se divertir! Que tal dar uma olhada em algumas curiosidades da nossa lenda, nosso mito, o titio Chuck Norris?!
+#### Venha se divertir! Que tal dar uma olhada em algumas piadas feita para nossa lenda, nosso mito, o titio Chuck Norris?!
 
 > "Quando Bell inventou o telefone já tinha 3 chamadas não atendidas do Chuck Norris."
 
